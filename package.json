@@ -1,0 +1,19 @@
+{
+  "name": "week11constuctorfunctions",
+  "version": "1.0.0",
+  "description": "week11homework",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevarnold02/week11constructorFunctions.git"
+  },
+  "author": "Kevin Arnold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevarnold02/week11constructorFunctions/issues"
+  },
+  "homepage": "https://github.com/Kevarnold02/week11constructorFunctions#readme"
+}
